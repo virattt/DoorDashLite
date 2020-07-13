@@ -1,2 +1,2 @@
 # DoorDashLite
-A simple implementation of a lite version DoorDash
+A simple implementation of a lite version of DoorDash.
