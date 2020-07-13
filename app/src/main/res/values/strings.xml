@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DoorDashLite</string>
+    <string name="content_description_cover_image_for_restaurant">Cover image for restaurant</string>
+</resources>
